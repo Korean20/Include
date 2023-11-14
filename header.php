@@ -1,2 +1,6 @@
 <?php
-echo dknvk;
+
+class header
+{
+
+}
